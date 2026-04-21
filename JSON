@@ -1,0 +1,12 @@
+{
+  "ai_score": 78,
+  "naturalness": 42,
+  "emotional_authenticity": 36,
+  "readability": 81,
+  "issues": ["Too generic", "Emotionally flat"],
+  "explanations": [
+    "The wording is polished but lacks specificity.",
+    "It sounds like a generic assistant rather than a real person."
+  ],
+  "summary": "Feels like AI trying hard to sound helpful."
+}
